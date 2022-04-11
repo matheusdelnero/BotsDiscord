@@ -26,4 +26,4 @@ intents.members = True
         
 
 client = MyClient()
-client.run('OTYyNTAzNzAwMDIxMTI5MjM3.YlIfbA.QG8s2NmGhK9fDq_WjoFRMOQjhm0')
+client.run('OTYyNTAzNzAwMDIxMTI5MjM3.YlIfbA.Gs9sxyxKfUVuuN9VWGD73H_Yo_8')
